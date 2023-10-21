@@ -11,8 +11,13 @@ The thermostat must support the peripherals used in the project.
 The thermostat must connect to the cloud via Wi-Fi.
 The architecture chosen must have enough Flash and RAM to support the code.
 In your report, you will be responsible for comparing and contrasting the three hardware architectures based on the above metrics.
-**What did you do particularly well?**
-**Where could you improve?**
-**What tools and/or resources are you adding to your support network?**
-**What skills from this project will be particularly transferable to other projects and/or course work?**
-**How did you make this project maintainable, readable, and adaptable?**
+**What did you do particularly well?**  
+The report explaining the prototype and analyzing the various architectures that could be use when connecting the thermostat to the cloud was well researched and I felt good about the report that was produced. Overall, my code was functional, clean, well-commented, and the requirements were met.  
+**Where could you improve?**  
+I failed to reset 3 of the Timer variables in the code after their task was executed.  There was also opportunity to simplify the code in the main loop.  
+**What tools and/or resources are you adding to your support network?**  
+I am adding more experience with C++ as well as my first exposure to CCS. I found a lot of vaue in the discussion questions and peer outreach, and I will look to utilize those items in the future.  
+**What skills from this project will be particularly transferable to other projects and/or course work?**  
+Experience and practice coding in C++ is always transferable to future projects.  The knowledge gained around embedded systems and how to use peripherals throughout this project should be useful moving forward.  
+**How did you make this project maintainable, readable, and adaptable?**  
+The code is very clean and well-commented to explain the lines of code and their functionality.
