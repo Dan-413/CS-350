@@ -1,6 +1,6 @@
 # CS-350
 ## Emerging Systems Architecture and Technology
-**Repository contains the final project in the course, prompt is as follows:**
+**Repository contains the final project in the course, prompt is as follows:**  
 The global smart thermostat market is forecast to reach almost $9 billion by 2026. The CEO of SysTec wants to get into this lucrative market and has tasked your engineering department with creating a smart thermostat using the TI board. SysTec develops analytics software for servers, but the CEO remembers from your interview that you took an embedded systems course and asks you to build a prototype. The final goal is to develop a thermostat that sends data to SysTec’s server software over Wi-Fi, but first they need a prototype of the low-level thermostat functionality working.
 
 For the prototype, you will use the TMP006 temperature sensor to read the room temperature (via I2C), an LED to indicate the output to the thermostat where LED on = heat on (via GPIO), two buttons to increase and decrease the set temperature (via GPIO interrupt), and the UART to simulate the data being sent to the server.
